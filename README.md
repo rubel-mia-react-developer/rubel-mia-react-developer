@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is rubel mia
 
 <!--
 **rubel-mia-react-developer/rubel-mia-react-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
