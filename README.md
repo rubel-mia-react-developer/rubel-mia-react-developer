@@ -1,3 +1,5 @@
+[ img src=" [ ![445920196_470468828830063_2820940972362189834_n](https://github.com/rubel-mia-react-developer/rubel-mia-react-developer/assets/170174054/d2199950-2396-4fcb-858f-2166d93778df)]
+"]
 
 Hi, I'm rubel mia, Your fellow Bangladesh web designer from sylhet. I really enjoy learning languages and frameworks like React,Javascript as well as work in as a professional Esports player in football. I also enjoy wireframing, web design in general. 
 
@@ -24,6 +26,4 @@ Hi, I'm rubel mia, Your fellow Bangladesh web designer from sylhet. I really enj
 Thanks!
 
 ![Anurag's GitHub stats](https://github.com/rubel-mia-react-developervercelapp/api?username=rubelmia&theme=merko&show_icons=true)]
-[ img src=" [ ![445920196_470468828830063_2820940972362189834_n](https://github.com/rubel-mia-react-developer/rubel-mia-react-developer/assets/170174054/d2199950-2396-4fcb-858f-2166d93778df)]
-"]
 
